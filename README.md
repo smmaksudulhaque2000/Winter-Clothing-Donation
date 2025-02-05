@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/MD4xvD1w/Screenshot-2.png" height="400" alt="Winter-Clothing-Donation"/>
+  <img src="https://i.ibb.co.com/MD4xvD1w/Screenshot-2.png" height="400" width="800" alt="Winter-Clothing-Donation"/>
 </div>
 
 # Winter Clothing Donation
